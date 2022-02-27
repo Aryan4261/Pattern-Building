@@ -1,2 +1,2 @@
 # Pattern-Building
-This is a pattern building code , made by python .
+This is a pattern building code using python.
